@@ -16,3 +16,4 @@ elif last == 0:
     print(string1 + string2 + " and is 0")
 else: 
     print(string1 + string2 + " and is greater than 5")
+
