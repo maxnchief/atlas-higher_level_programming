@@ -14,5 +14,5 @@ elif last != 0 and last < 6:
     print(string1 + string2 + " and is less than 6 and not 0")
 elif last == 0:
     print(string1 + string2 + " and is 0")
-else: 
+else:
     print(string1 + string2 + " and is greater than 5")
