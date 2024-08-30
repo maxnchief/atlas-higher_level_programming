@@ -10,4 +10,4 @@ for n in range(100):
     if n < 99:
          print("{1}{0}, ".format(n, single_digit), end="")
     else:
-        print("{} ".format(n), end="")
+        print("{}\n ".format(n), end="")
