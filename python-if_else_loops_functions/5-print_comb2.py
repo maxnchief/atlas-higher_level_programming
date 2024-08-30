@@ -2,7 +2,7 @@
 for n in range(100):
     s = str(n)
     if n < 10:
-        single_digit = ("0" + s)
+        single_digit = ("0")
     elif n >= 10:
         single_digit = ("")
     else:
