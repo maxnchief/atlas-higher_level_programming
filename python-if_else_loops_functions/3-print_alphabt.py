@@ -2,7 +2,7 @@
 n = 96
 while n < 123:
   n += 1
-  if not n == 101 or 113:
-    print("{}".format(chr(n)), end="")
+  if n == 101 or n == 113:
+    pass
   else:
-    continue
+    print("{}".format(chr(n)), end="")
