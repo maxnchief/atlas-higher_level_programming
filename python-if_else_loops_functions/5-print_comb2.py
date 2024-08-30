@@ -8,6 +8,6 @@ for n in range(100):
     else:
         pass
     if n < 99:
-         print("{1}{0}, ".format(n, single_digit), end="")
+        print("{1}{0}, ".format(n, single_digit), end="")
     else:
         print("{}\n".format(n), end="")
