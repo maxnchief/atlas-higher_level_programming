@@ -1,0 +1,5 @@
+This is  the project file for python classes. 
+
+
+
+In a personal life note the NFL has started and of course that means I've dove head first back into fantasy football. I feel great about it this year (like I wouldn't any other year) as I had some decent perfomances in the season opener. Fantasy aside, my faith waivers in the Cowboys as they don't seem to be seriously trying to improve and are okay with being a good not great team. The Longhorns on the other hand, have been making moves to reload the roster and remain in contention. Ewers looks more poised than ever, elevating the swaths of talent littering the program. But concerns arise from the percieved higher level of competion they face in their first year entering the SEC confrence. It'll be a fun year and I can't wait to be depressed come January
