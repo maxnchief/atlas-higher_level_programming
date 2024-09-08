@@ -5,4 +5,5 @@
 class Square:
     """we are inside the class"""
     def __init__(self, size)
+    """this is the size instance"""
     pass
