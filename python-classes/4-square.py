@@ -6,7 +6,7 @@ class Square:
     """we are inside the class"""
 
     def __init__(self, size=0):
-       """this is the instance of size
+        """this is the instance of size
 
         Args:
             size (int): The size of the new square.
@@ -29,4 +29,3 @@ class Square:
     def area(self):
         """return the square area"""
         return (self.__size * self.__size)
-        
