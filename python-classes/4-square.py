@@ -5,8 +5,8 @@
 class Square:
     """we are inside the class"""
 
-    def __init__(self, size = 0):
-        """this is the instance of size
+    def __init__(self, size=0):
+       """this is the instance of size
 
         Args:
             size (int): The size of the new square.
@@ -18,11 +18,10 @@ class Square:
         """gets curent size"""
         return (self.__size)
 
-
     @size.setter
-    def size(self):
+    def size(self, value):
         if not isinstance(value, int):
-            raise TypeError("size must be an interger")
+            raise TypeError("size must be an integer")
         elif value < 0:
             raise ValueError("size must be >= 0")
         self.__size = value
@@ -30,3 +29,4 @@ class Square:
     def area(self):
         """return the square area"""
         return (self.__size * self.__size)
+        
