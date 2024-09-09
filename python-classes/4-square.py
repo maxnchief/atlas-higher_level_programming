@@ -11,11 +11,13 @@ class Square:
         Args:
             size (int): The size of the new square.
         """
+    @property
     def size(self):
         """gets curent size"""
         return (self.__size)
 
-        
+
+    @size.setter
     def size(self):
         if not isinstance(size, int):
             raise TypeError("size must be an interger")
