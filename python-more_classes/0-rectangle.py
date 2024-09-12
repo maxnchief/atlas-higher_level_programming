@@ -9,4 +9,3 @@ class Rectangle:
     Create an empty Rectangle Object.
     """
     pass
-    
