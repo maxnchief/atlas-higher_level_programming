@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-def assign_value(n, v):
-    n = v
-
-l1 = [1, 2, 3]
-l2 = [4, 5, 6]
-assign_value(l1, l2)
-print(l1)
+id(a)
+139926795932424
+a
+[1, 2, 3, 4]
+a = a + [5]
+id(a)
