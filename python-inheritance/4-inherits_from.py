@@ -2,7 +2,7 @@
 """ module: 4-inherits_from"""
 
 
-def inherts_from(obj, a_class):
+def inherits_from(obj, a_class):
     """the object is an inherited class
     obj: an object
     a_class: a class
