@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+"""
+this is an empty basegeometry class
+
+"""
+
+
+class BaseGeometry:
+    """
+    Class: BaseGeometry
+    """
+    def area(self):
+        """Not implemented"""
+    raise Exception("area() is not implemented")
+    
