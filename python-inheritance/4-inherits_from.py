@@ -6,7 +6,7 @@ def inherts_from(obj, a_class):
     """the object is an inherited class
     obj: an object
     a_class: a class
-    returns none"""
+    returns None
+    """
 
     return type(obj) != a_class and isinstance(obj, a_class)
-    
