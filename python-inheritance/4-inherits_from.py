@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" module: 4-inherts_from"""
+""" module: 4-inherits_from"""
 
 
 def inherts_from(obj, a_class):
