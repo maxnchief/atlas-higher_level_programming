@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-class Base:
+class Base:\
+''' this is a mf base class and this is the mf documentaion gimmie points
+'''
 
     __nb_objects = 0
 
