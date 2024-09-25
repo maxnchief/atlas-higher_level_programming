@@ -6,11 +6,7 @@ def read_file(filename=""):
     with open(filename, 'r', encoding='utf-8') as file:
         
       
-        '''
-        this function opens a file and reads it
-        Args:
-            @filename - the name of the file being read
-        '''
+        '''prints the contents of the utf-8 file to stdout'''
 
 
     content = file.read()
