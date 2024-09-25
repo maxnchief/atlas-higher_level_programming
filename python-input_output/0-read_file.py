@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-'''
-will open the file
-'''
+'''will open the file'''
 
 
 def read_file(filename=""):
