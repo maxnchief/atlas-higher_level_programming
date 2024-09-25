@@ -4,9 +4,12 @@ function will open the file
 '''
 
 def read_file(filename=""):
-    
-    '''
-    this function opens a file and reads it
-    '''
+    with open(filename, 'r', encoding='utf-8') as file:
+        
+        '''
+        this function opens a file and reads it
+        '''
 
-    with open('UTF8')
+    content = file.read()
+    print(content, end='')
+    
