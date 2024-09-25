@@ -7,8 +7,6 @@ def read_file(filename=""):
         
       
         '''prints the contents of the utf-8 file to stdout'''
-
-
     content = file.read()
     print(content, end='')
     
