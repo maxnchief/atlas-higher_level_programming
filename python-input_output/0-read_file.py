@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-function will open the file
+will open the file
 '''
 
 def read_file(filename=""):
@@ -8,6 +8,8 @@ def read_file(filename=""):
         
         '''
         this function opens a file and reads it
+        Args:
+            filename - the name of the file being read
         '''
 
     content = file.read()
