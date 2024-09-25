@@ -4,5 +4,5 @@
 def write_file(filename="", text=""):
     '''function will write content to utf8 file'''
     with open(filename, 'w', encoding='utf-8') as file:
-        content = file.write()
+        content = file.write(content)
         return len(content)
