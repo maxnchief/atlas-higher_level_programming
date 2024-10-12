@@ -1,1 +1,2 @@
-select all
+-- List all databases
+SHOW DATABASES;
