@@ -1,3 +1,4 @@
+-- desrcribe without describe
 USE $1;
 
 SELECT 
