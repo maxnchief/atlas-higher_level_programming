@@ -1,0 +1,1 @@
+got mysql runnihng hopefully it wont be a pain and a half
