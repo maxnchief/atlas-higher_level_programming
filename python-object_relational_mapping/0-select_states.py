@@ -3,6 +3,8 @@ import sys
 
 #!/usr/bin/python3
 
+"""this module lists all states from the database hbtn_0e_0_usa"""
+
 if __name__ == "__main__":
     # Get MySQL credentials and database name from command line arguments
     mysql_username = sys.argv[1]
