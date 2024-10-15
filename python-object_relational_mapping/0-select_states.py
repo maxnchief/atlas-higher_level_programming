@@ -1,9 +1,9 @@
-import MySQLdb
-import sys
-
 #!/usr/bin/python3
 
 """this module lists all states from the database hbtn_0e_0_usa"""
+
+import MySQLdb
+import sys
 
 if __name__ == "__main__":
     # Get MySQL credentials and database name from command line arguments
